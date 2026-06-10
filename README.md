@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PYTHONIC - Python Learning Repository
 
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
@@ -617,9 +616,3 @@ If you encounter issues or have questions:
 **Happy Learning!** 🐍
 
 Start here: [QUICKSTART.md](QUICKSTART.md)
-=======
-# Pythonic
-This repo is my first step to data science and Ai.
-<br>
-Author -  Ultron (ts)
->>>>>>> 7f61bb8c96e3f34dccc5af68cea572822d6ecf54
